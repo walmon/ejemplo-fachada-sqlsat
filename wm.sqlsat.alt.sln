@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wm.sqlsat.alt.svc", "..\wm.sqlsat.alt\wm.sqlsat.alt.svc\wm.sqlsat.alt.svc.csproj", "{9BBDA3F9-EB20-4607-9AC9-74732C94D293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wm.sqlsat.alt.da.documentdb", "..\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\wm.sqlsat.alt.da.documentdb.csproj", "{CEF9AFC7-3A7F-49FE-A95B-F4D6614E1D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wm.sqlsat.alt.da.keyvalue", "..\wm.sqlsat.alt\wm.sqlsat.alt.da.keyvalue\wm.sqlsat.alt.da.keyvalue.csproj", "{8B37EDDA-400C-499E-A591-235398882226}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "Architecture", "..\wm.sqlsat.alt\Architecture\Architecture.modelproj", "{3040D8F2-0073-4EBE-9DBC-F430DD880683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wm.sqlsat.alt.da.rel", "..\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\wm.sqlsat.alt.da.rel.csproj", "{A785B5AE-8343-4F82-BF7C-035C2EACC10F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Application", "1 Application", "{4A13E942-039B-439F-AF00-AE5D6EFD6603}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Web Services", "2 Web Services", "{842EB2A7-2094-434A-A2B3-B1557DF42BDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 Facade", "2.1 Facade", "{51E6F1CB-7899-4310-BDCF-CC87E8CEB354}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2 Data Access", "2.2 Data Access", "{FBCCE58C-41B5-4A1D-8FD2-55EFFF1C4F15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2.1 SQL Azure", "2.2.1 SQL Azure", "{CA6B38A9-5F55-4DF7-B8FD-4F9B565240AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2.2 SQL Table Storage", "2.2.2 SQL Table Storage", "{82B284A2-3F1F-4D79-A682-2E23BEC527D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2.3 DocumentDB", "2.2.3 DocumentDB", "{BFAB5661-7C41-4A3C-8F68-63D1C5ECE5D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 MVC", "1.1 MVC", "{E7064C4B-6739-44E3-B936-AAF184F622D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wm.sqlsat.alt.ui_mvc", "..\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\wm.sqlsat.alt.ui_mvc.csproj", "{C39D93D1-2B76-4C1E-976A-590AC2C89D26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Entitiy", "3 Entitiy", "{AD38C84F-FDFB-4467-895F-91AF95FD6E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wm.sqlsat.alt.entity", "..\wm.sqlsat.alt\wm.sqlsat.alt.entity\wm.sqlsat.alt.entity.csproj", "{C80633DF-F314-474A-8172-CF417D1D9E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBDA3F9-EB20-4607-9AC9-74732C94D293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBDA3F9-EB20-4607-9AC9-74732C94D293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBDA3F9-EB20-4607-9AC9-74732C94D293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBDA3F9-EB20-4607-9AC9-74732C94D293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF9AFC7-3A7F-49FE-A95B-F4D6614E1D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF9AFC7-3A7F-49FE-A95B-F4D6614E1D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF9AFC7-3A7F-49FE-A95B-F4D6614E1D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF9AFC7-3A7F-49FE-A95B-F4D6614E1D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B37EDDA-400C-499E-A591-235398882226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B37EDDA-400C-499E-A591-235398882226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B37EDDA-400C-499E-A591-235398882226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B37EDDA-400C-499E-A591-235398882226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3040D8F2-0073-4EBE-9DBC-F430DD880683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3040D8F2-0073-4EBE-9DBC-F430DD880683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3040D8F2-0073-4EBE-9DBC-F430DD880683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3040D8F2-0073-4EBE-9DBC-F430DD880683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A785B5AE-8343-4F82-BF7C-035C2EACC10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A785B5AE-8343-4F82-BF7C-035C2EACC10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A785B5AE-8343-4F82-BF7C-035C2EACC10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A785B5AE-8343-4F82-BF7C-035C2EACC10F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C39D93D1-2B76-4C1E-976A-590AC2C89D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39D93D1-2B76-4C1E-976A-590AC2C89D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39D93D1-2B76-4C1E-976A-590AC2C89D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39D93D1-2B76-4C1E-976A-590AC2C89D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80633DF-F314-474A-8172-CF417D1D9E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80633DF-F314-474A-8172-CF417D1D9E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80633DF-F314-474A-8172-CF417D1D9E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80633DF-F314-474A-8172-CF417D1D9E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9BBDA3F9-EB20-4607-9AC9-74732C94D293} = {51E6F1CB-7899-4310-BDCF-CC87E8CEB354}
+		{CEF9AFC7-3A7F-49FE-A95B-F4D6614E1D17} = {BFAB5661-7C41-4A3C-8F68-63D1C5ECE5D1}
+		{8B37EDDA-400C-499E-A591-235398882226} = {82B284A2-3F1F-4D79-A682-2E23BEC527D5}
+		{A785B5AE-8343-4F82-BF7C-035C2EACC10F} = {CA6B38A9-5F55-4DF7-B8FD-4F9B565240AE}
+		{51E6F1CB-7899-4310-BDCF-CC87E8CEB354} = {842EB2A7-2094-434A-A2B3-B1557DF42BDD}
+		{FBCCE58C-41B5-4A1D-8FD2-55EFFF1C4F15} = {842EB2A7-2094-434A-A2B3-B1557DF42BDD}
+		{CA6B38A9-5F55-4DF7-B8FD-4F9B565240AE} = {FBCCE58C-41B5-4A1D-8FD2-55EFFF1C4F15}
+		{82B284A2-3F1F-4D79-A682-2E23BEC527D5} = {FBCCE58C-41B5-4A1D-8FD2-55EFFF1C4F15}
+		{BFAB5661-7C41-4A3C-8F68-63D1C5ECE5D1} = {FBCCE58C-41B5-4A1D-8FD2-55EFFF1C4F15}
+		{E7064C4B-6739-44E3-B936-AAF184F622D5} = {4A13E942-039B-439F-AF00-AE5D6EFD6603}
+		{C39D93D1-2B76-4C1E-976A-590AC2C89D26} = {E7064C4B-6739-44E3-B936-AAF184F622D5}
+		{C80633DF-F314-474A-8172-CF417D1D9E45} = {AD38C84F-FDFB-4467-895F-91AF95FD6E78}
+	EndGlobalSection
+EndGlobal

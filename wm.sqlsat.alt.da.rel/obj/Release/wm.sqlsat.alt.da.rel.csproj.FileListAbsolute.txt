@@ -1,0 +1,15 @@
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\wm.sqlsat.alt.da.rel.dll.config
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\wm.sqlsat.alt.da.rel.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\wm.sqlsat.alt.da.rel.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\EntityFramework.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\EntityFramework.SqlServer.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\Microsoft.WindowsAzure.Storage.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\wm.sqlsat.alt.entity.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\Newtonsoft.Json.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\wm.sqlsat.alt.entity.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\EntityFramework.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\EntityFramework.SqlServer.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\bin\Release\Microsoft.WindowsAzure.Storage.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\obj\Release\wm.sqlsat.alt.da.rel.csprojResolveAssemblyReference.cache
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\obj\Release\wm.sqlsat.alt.da.rel.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.rel\obj\Release\wm.sqlsat.alt.da.rel.pdb

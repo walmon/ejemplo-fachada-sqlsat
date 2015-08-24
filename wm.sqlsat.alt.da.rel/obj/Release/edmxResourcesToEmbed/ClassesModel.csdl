@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sqlsat319Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Class">
+    <Key>
+      <PropertyRef Name="Student" />
+      <PropertyRef Name="ClassRoom" />
+    </Key>
+    <Property Name="Student" Type="Guid" Nullable="false" />
+    <Property Name="ClassRoom" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="sqlsat319Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Classes" EntityType="Self.Class" />
+  </EntityContainer>
+</Schema>

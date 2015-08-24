@@ -1,0 +1,24 @@
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\wm.sqlsat.alt.da.documentdb.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\wm.sqlsat.alt.da.documentdb.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\wm.sqlsat.alt.entity.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Newtonsoft.Json.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\wm.sqlsat.alt.entity.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\obj\Debug\wm.sqlsat.alt.da.documentdb.csprojResolveAssemblyReference.cache
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\obj\Debug\wm.sqlsat.alt.da.documentdb.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\obj\Debug\wm.sqlsat.alt.da.documentdb.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\wm.sqlsat.alt.da.documentdb.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\wm.sqlsat.alt.da.documentdb.pdb
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\wm.sqlsat.alt.entity.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\wm.sqlsat.alt.entity.pdb
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\obj\Debug\wm.sqlsat.alt.da.documentdb.csprojResolveAssemblyReference.cache
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\obj\Debug\wm.sqlsat.alt.da.documentdb.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.da.documentdb\obj\Debug\wm.sqlsat.alt.da.documentdb.pdb

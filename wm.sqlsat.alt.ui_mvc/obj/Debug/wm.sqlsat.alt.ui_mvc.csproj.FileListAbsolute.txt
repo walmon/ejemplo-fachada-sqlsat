@@ -1,0 +1,94 @@
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.ui_mvc.dll.config
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.ui_mvc.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.ui_mvc.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Antlr3.Runtime.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Newtonsoft.Json.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Helpers.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Mvc.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Optimization.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Razor.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.Deployment.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.Razor.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\WebGrease.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Helpers.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Mvc.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Optimization.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Razor.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.Deployment.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.Razor.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Antlr3.Runtime.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Newtonsoft.Json.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\obj\Debug\wm.sqlsat.alt.ui_mvc.csprojResolveAssemblyReference.cache
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\obj\Debug\wm.sqlsat.alt.ui_mvc.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\obj\Debug\wm.sqlsat.alt.ui_mvc.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.WindowsAzure.Storage.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.entity.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.svc.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.keyvalue.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Data.Edm.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Data.Services.Client.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Data.OData.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Spatial.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.entity.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.svc.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.WindowsAzure.Storage.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.keyvalue.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Azure.Documents.Client.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.documentdb.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.documentdb.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.rel.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\EntityFramework.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.rel.pdb
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\EntityFramework.xml
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\EntityFramework.SqlServer.dll
+c:\users\walter\documents\visual studio 2013\Projects\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.ui_mvc.dll.config
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.ui_mvc.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.ui_mvc.pdb
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Antlr3.Runtime.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\EntityFramework.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Newtonsoft.Json.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Helpers.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Mvc.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Optimization.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Razor.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\WebGrease.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.entity.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.svc.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.rel.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.keyvalue.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.documentdb.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Data.Edm.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Data.Services.Client.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.Data.OData.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Spatial.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.entity.pdb
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.svc.pdb
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\EntityFramework.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Helpers.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Mvc.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Optimization.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.Razor.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Antlr3.Runtime.pdb
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\Newtonsoft.Json.xml
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.rel.pdb
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.keyvalue.pdb
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\bin\wm.sqlsat.alt.da.documentdb.pdb
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\obj\Debug\wm.sqlsat.alt.ui_mvc.csprojResolveAssemblyReference.cache
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\obj\Debug\wm.sqlsat.alt.ui_mvc.dll
+C:\Users\waltermontes\Downloads\wm.sqlsat.alt\wm.sqlsat.alt.ui_mvc\obj\Debug\wm.sqlsat.alt.ui_mvc.pdb

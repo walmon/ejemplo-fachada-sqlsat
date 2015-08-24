@@ -1,0 +1,122 @@
+﻿@model List<wm.sqlsat.alt.entity.ClassesEntity>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>Let's talk to different repositories, but this app won't even know who it is talking to...</h1>
+<section>
+    <div>
+        <h2>Create here directly to Azure Table Storage!</h2>
+
+        @using (Html.BeginForm("PostClassRoom", "Home", FormMethod.Post))
+        {
+            <div>
+                <label for="number">Number</label>
+                <input id="number" type="number" name="number" />
+            </div>
+            <div>
+                <label for="building">Building</label>
+                <select id="building" name="building">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </div>
+            <div>
+                <label for="floor">Floor</label>
+                <input type="number" id="floor" name="floor" />
+            </div>
+            <div>
+                <label for="capacity">Capacity</label>
+                <input type="number" id="capacity" name="capacity" />
+            </div>
+            <div>
+                <label for="description">Description</label>
+                <input id="description" name="description" />
+            </div>
+
+            <input type="submit" value="Create!" />
+        }
+    </div>
+    <div>
+        <h2>All the items from the Azure Table Storage</h2>
+        <table style="border:#aaa solid 1px">
+            <thead>
+                <tr>
+                    <th>Number</th>
+                    <th>Building</th>
+                    <th>Floor</th>
+                    <th>Capacity</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ViewBag.ClassRooms)
+                {
+                    <tr>
+                        <td>@item.Number</td>
+                        <td>@item.Building</td>
+                        <td>@item.Floor</td>
+                        <td>@item.Capacity</td>
+                        <td>@item.Description</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+<section class="white">
+    <div>
+        <h2>And here let's mix up Table Storage, DocumentDB y SQL Azure</h2>
+        <img src="~/Content/Images/Document db.png" height="100" style="margin:12px" />
+        <img src="~/Content/Images/tablestorage.png" style="margin:12px" />
+        <img src="~/Content/Images/sqlazure.png" style="margin:12px" />
+    </div>
+    <div>
+        <table>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td><h4> Aula @item.ClassRoom.Number en el piso @item.ClassRoom.Floor en el edificio @item.ClassRoom.Building </h4>
+                            <table>
+                                @foreach (var student in item.Students) { 
+                                    <tr>
+                                        <td>
+                                            @student.LastName, @student.Name
+                                        </td>
+                                        <td>
+                                            @student.BornDate.ToShortDateString()
+                                        </td>
+                                    </tr>
+                                }
+                            </table>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+
+<div class="clearer"></div>
+<style>
+    label {
+        min-width: 100px;
+        max-width: 100px;
+    }
+    section{
+        width:50%;
+        float:left;
+        padding:12px 24px;
+        background:#eee;
+    }
+        section.white {
+            background:#fff;
+        }
+    .clearer {
+        clear:both;
+    }
+</style>

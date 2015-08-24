@@ -1,0 +1,18 @@
+﻿USE [sqlsat]
+GO
+
+/****** Object:  Table [dbo].[Class]    Script Date: 8/24/2015 10:19:26 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Class](
+	[Student] [uniqueidentifier] NULL,
+	[ClassRoom] [int] NULL
+) ON [PRIMARY]
+
+GO
+
+

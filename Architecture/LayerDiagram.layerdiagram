@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="3113f746-dc49-4005-b57d-26a79e157843" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="225a4ff2-a991-4647-b196-5a810a666ded" name="Application">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="e622a808-ed43-459c-95ae-24d2c5106af1" direction="Forward">
+          <layerMoniker Id="5359901e-8ca3-40f0-8b50-8f631d4c11a4" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <childLayers>
+        <layer Id="dcc4d7ac-340a-48dd-a6bc-602bdbecbf5c" name="MVC Web App" />
+      </childLayers>
+    </layer>
+    <layer Id="5359901e-8ca3-40f0-8b50-8f631d4c11a4" name="Web Service">
+      <childLayers>
+        <layer Id="26acff65-1672-428d-80b3-d751224fec73" name="Facade">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="f606ea69-42c7-4ce2-928d-4f2c90b271f4" direction="Forward">
+              <layerMoniker Id="3c1a2a9e-5f7d-43b5-b1ed-74a0b65065d5" />
+            </dependencyFromLayerToLayer>
+            <dependencyFromLayerToLayer Id="350c8881-68e4-402a-8213-11e258c5b2f0" direction="Forward">
+              <layerMoniker Id="75fad8bd-395b-410a-b3da-f53974af7d9e" />
+            </dependencyFromLayerToLayer>
+            <dependencyFromLayerToLayer Id="20ecbea4-fbc7-438f-9805-6b0c1758f5fd" direction="Forward">
+              <layerMoniker Id="285f7fbf-6c4a-4e86-874b-c80c963c9b82" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+        <layer Id="3c1a2a9e-5f7d-43b5-b1ed-74a0b65065d5" name="DocumentDB" />
+        <layer Id="75fad8bd-395b-410a-b3da-f53974af7d9e" name="SQL Table Storage" />
+        <layer Id="285f7fbf-6c4a-4e86-874b-c80c963c9b82" name="SQL Azure" />
+      </childLayers>
+    </layer>
+  </layers>
+</layerModel>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sqlsat319ModelStoreContainer" CdmEntityContainer="sqlsat319Entities">
+    <EntitySetMapping Name="Classes">
+      <EntityTypeMapping TypeName="sqlsat319Model.Class">
+        <MappingFragment StoreEntitySet="Classes">
+          <ScalarProperty Name="Student" ColumnName="Student" />
+          <ScalarProperty Name="ClassRoom" ColumnName="ClassRoom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
